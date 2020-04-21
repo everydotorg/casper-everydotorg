@@ -274,15 +274,6 @@ th {
    Base styles: opinionated defaults
    ========================================================================== */
 
-@font-face {
-    font-family: 'Basis Grotesque';
-    src: url('BasisGrotesque-BlackItalic-Pro.woff2') format('woff2'),
-        url('BasisGrotesque-BlackItalic-Pro.woff') format('woff'),
-        url('BasisGrotesque-BlackItalic-Pro.ttf') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-}
-
 html {
     overflow-x: hidden;
     overflow-y: scroll;
